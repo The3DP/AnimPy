@@ -1,2 +1,2 @@
-# AnimPy
-A animation-based repository for python code.
+# Panim
+Panim is similar to AnimOne, except it is animation-based for only python code.
